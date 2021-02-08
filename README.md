@@ -1,2 +1,2 @@
 # cyberstudent
-This is my first-time coding project woth GitHub.
+This is my first-time coding project with GitHub.
